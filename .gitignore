@@ -6,3 +6,5 @@ boringssl/install/*
 *.pb.*
 *.o
 *.kate-swp
+*.zip
+proto/protobuf
